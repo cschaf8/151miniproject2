@@ -1,0 +1,39 @@
+body {
+    /*background-color: rgb(204, 242, 247);*/
+    background-image: url("background.jpg");
+  }
+h2 {
+    color: rgb(5, 5, 48);
+  }
+h1 {
+    color: rgb(231, 231, 248);
+    max-width: 75%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    color: rgb(231, 231, 248);
+    max-width: 75%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+a {
+    color: rgb(231, 231, 248);
+    max-width: 75%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+img {
+    display: block;
+    padding: 10px;
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+
+  }
+  
