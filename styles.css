@@ -6,7 +6,7 @@ h2 {
     color: rgb(5, 5, 48);
   }
 h1 {
-    color: rgb(231, 231, 248);
+    color: rgb(52, 52, 59);
     max-width: 75%;
     margin: auto;
     padding: 10px;
@@ -14,7 +14,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 p {
-    color: rgb(231, 231, 248);
+    color: rgb(52, 52, 59);
     max-width: 75%;
     margin: auto;
     padding: 10px;
@@ -22,7 +22,7 @@ p {
     font-family: 'Roboto Slab', serif;
 }
 a {
-    color: rgb(231, 231, 248);
+    color: rgb(52, 52, 59);
     max-width: 75%;
     margin: auto;
     padding: 20px;
@@ -31,9 +31,27 @@ a {
 img {
     display: block;
     padding: 10px;
-    max-width: 50%;
+    max-width: 90%;
     height: auto;
     margin: auto;
 
   }
-  
+.leftDiv {
+  float: left;
+  width: 40%;
+  height: 150px;
+  align-items: center;
+}
+.rightDiv {
+  float: right;
+  width: 54%;
+  height: 540px;
+  align-items: center;
+}
+div {
+  padding: 1%;
+  color: rgb(52, 52, 59);
+  background-color: white;
+  border: solid black;
+  margin: 5px;
+}
